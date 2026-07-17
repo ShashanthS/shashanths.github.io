@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "QuartoWebsite",
+    "title": "Shashanth Sriramanathan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am PhD candidate at the University of Bristol, supervised by Dr. Andy Young. I work on modelling the innermost regions of the accretion flow in Active Galactic Nuclei, both in the spectral and time domain. I am also a part of the TALES doctoral network. I am broadly interested in anything to do with accretion physics in compact objects, ranging from X-ray binaries to AGN."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "research.html#x-ray-interferometry",
+    "href": "research.html#x-ray-interferometry",
+    "title": "Research",
+    "section": "X-ray Interferometry",
+    "text": "X-ray Interferometry"
+  },
+  {
+    "objectID": "research.html#reflection-fractions",
+    "href": "research.html#reflection-fractions",
+    "title": "Research",
+    "section": "Reflection Fractions (?)",
+    "text": "Reflection Fractions (?)"
   }
 ]
