@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a PhD candidate at the University of Bristol, working under the supervision of Andy Young. I use X-ray emission to study the innermost regions of Active Galactic Nuclei (AGN), focussing on applying and developing spectral-timing models. I am also an active member of the doctoral network TALES, which was established to use time-domain astronomy techniques to study several aspects of AGN.\nPreviously, I completed a master’s thesis at the Anton Pannekoek Institute, University of Amsterdam, under the supervision of Phil Uttley - I worked on using the bispectrum, a second order Fourier method, to study quasi-periodic oscillations in X-ray binaries."
   },
   {
     "objectID": "research.html#x-ray-interferometry",
@@ -26,5 +26,26 @@
     "title": "Research",
     "section": "Reflection Fractions (?)",
     "text": "Reflection Fractions (?)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail: shashanth.sriramanathan@bristol.ac.uk"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Studying Quasi-Periodic Oscillations using the bispectrum.\n\n\nX-ray Interferometry\n\n\nReflection Fractions (?)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Nothing so far!"
   }
 ]
